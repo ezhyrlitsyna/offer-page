@@ -1,0 +1,14 @@
+@import '~bootstrap/scss/bootstrap';
+@import 'scss-reset/reset';
+* {
+	box-sizing: border-box;
+	padding: 0px;
+	margin: 0px;
+}
+
+body{
+	padding: 0px;
+	margin: 0px;
+	min-height: 100vh;
+  min-width: 100vw;
+}

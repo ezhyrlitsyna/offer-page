@@ -1,0 +1,26 @@
+@font-face{
+		font-family: 'Intro';
+		src: url('~static/fonts/IntroRegular/Intro_regular.otf') format('otf');
+		font-weight: 400;
+}
+@font-face{
+		font-family: 'Proxima Nova';
+		src: url('~static/fonts/ProximaNova/proximanova_regular.ttf') format('ttf');
+		font-weight: 400;
+}
+@font-face{
+		font-family: 'Proxima Nova';
+		src: url('~static/fonts/ProximaNova/proximanova_semibold.otf') format('otf');
+		font-weight: 600;
+}
+@font-face{
+		font-family: 'Proxima Nova';
+		src: url('~static/fonts/ProximaNova/proximanova_bold.otf') format('otf');
+		font-weight: 700;
+}
+@font-face{
+		font-family: 'Proxima Nova';
+		src: url('~static/fonts/ProximaNova/proximanova_extra-bold.otf') format('otf');
+		font-weight: 800;
+}
+@import url(https://fonts.googleapis.com/css?family=Outfit:100,200,300,regular,500,600,700,800,900);
